@@ -1,0 +1,7 @@
+C:\__Elena\PIU\farmacie\obj\Debug\farmacie.csproj.CoreCompileInputs.cache
+C:\__Elena\PIU\farmacie\bin\Debug\farmacie.exe.config
+C:\__Elena\PIU\farmacie\bin\Debug\farmacie.exe
+C:\__Elena\PIU\farmacie\bin\Debug\farmacie.pdb
+C:\__Elena\PIU\farmacie\obj\Debug\farmacie.csproj.AssemblyReference.cache
+C:\__Elena\PIU\farmacie\obj\Debug\farmacie.exe
+C:\__Elena\PIU\farmacie\obj\Debug\farmacie.pdb
